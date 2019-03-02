@@ -39,9 +39,9 @@ def hit? (total)
     total += new_card
   elsif input == "s"
     Break
-  else 
+  else
     invalid_command
-    
+
   end
 end
 
