@@ -46,7 +46,7 @@ def hit? (total)
 end
 
 def invalid_command
-  puts "Please enter a vliad command."
+  puts "Please enter a valid command."
 end
 
 #####################################################
